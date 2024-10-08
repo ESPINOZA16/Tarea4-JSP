@@ -6,7 +6,7 @@ package modelo;
 
 /**
  *
- * @author David Valenzuela
+ * @author Anderson  Espinoza
  */
 abstract class Persona {
     private int id;
