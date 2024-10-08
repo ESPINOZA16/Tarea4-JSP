@@ -1,7 +1,7 @@
 <%-- 
     Document   : index
-    Created on : 4/10/2024, 5:18:11 p. m.
-    Author     : David Valenzuela
+    Created on : 5/10/2024, 1:00:13 p. m.
+    Author     : Anderson Espinoza
 --%>
 <%@page import="modelo.Puesto"%>
 <%@page import="modelo.Empleado"%>
