@@ -10,7 +10,7 @@ import java.sql.PreparedStatement;
 import javax.swing.table.DefaultTableModel;
 /**
  *
- * @author David Valenzuela
+ * @author Anderson Espinoza
  */
 public class Empleado extends Persona{
     private String codigo;
