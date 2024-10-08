@@ -14,7 +14,7 @@ import modelo.Empleado;
 
 /**
  *
- * @author David Valenzuela
+ * @author Andeerson Espinoza
  */
 public class sr_empleado extends HttpServlet {
 
