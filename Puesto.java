@@ -8,7 +8,7 @@ import java.sql.SQLException;
 import java.util.HashMap;
 /**
  *
- * @author David Valenzuela
+ * @author Anderson Espinoza
  */
 public class Puesto {
     //para mantenimiento
